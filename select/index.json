@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Anything Goes! Happy 10th ver. 50th Anniversary COVER Ver.",
+  "base_artist": "火野映司×アンク×泉比奈(C.V.渡部秀・三浦涼介・高田里穂)",
+  "createdAt": "2026-01-09T06:53:29.239269Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Anything Goes! Happy 10th ver. 50th Anniversary COVER Ver.",
+      "artist": "火野映司×アンク×泉比奈(C.V.渡部秀・三浦涼介・高田里穂)",
+      "has_synced": false,
+      "path": "select/pl_01_Anything_Goes!_Happy_10th_ver._50th_Anniversary_COVER_Ver._火野映司×アンク×泉比奈(C.V.渡部秀・三浦涼介・高田里穂).txt"
+    }
+  ]
+}
